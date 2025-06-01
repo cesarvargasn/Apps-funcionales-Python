@@ -82,4 +82,4 @@ py simple_scraper_gui.py
 
 ## 📄 Licencia
 
-MIT — haz lo que quieras, pero sin garantías. Consulta el archivo `LICENSE` para más detalles.
+haz lo que quieras, pero sin garantías. 
